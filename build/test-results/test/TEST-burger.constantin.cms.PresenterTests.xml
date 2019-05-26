@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="burger.constantin.cms.PresenterTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-03T12:32:44" hostname="Fukui" time="0.669">
+  <properties/>
+  <testcase name="testArticlePresenter" classname="burger.constantin.cms.PresenterTests" time="0.626"/>
+  <testcase name="testArticleListPresenter" classname="burger.constantin.cms.PresenterTests" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
